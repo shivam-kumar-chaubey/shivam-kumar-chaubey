@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rajan-kumar-mu1439/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajan-kumar-mu1439/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shivam-kumar-353825311/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rajan-kumar-mu1439/" height="30" width="40" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/rajankumarmu001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/rajankumarmu001" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/rajan-kumar-mu1439/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rajan-kumar-mu1439/" height="30" width="40" /></a>
 </p>
