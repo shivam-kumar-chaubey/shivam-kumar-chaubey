@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam bharadwaj</h1>
 <h3 align="center">Computer Science student building practical , Deep Learning and AI projects through hands-on learning.</h3>
 
-- 🌱 I have knowledge of **Machine Learning fundamentals, Exploratory Data Analysis (EDA), data preprocessing, model evaluation, and building Machine Learning (ML) and Deep Learning (DL) models.**
+- 🌱 I have knowledge of **Full stack development | in which making some modern and animated wedsite, OOPS concept,| Data handlinh |Excel ,word, Powerpoint .**
 
 - 📫 How to reach me **shivamkumarkr5252@gmail.com**
 
